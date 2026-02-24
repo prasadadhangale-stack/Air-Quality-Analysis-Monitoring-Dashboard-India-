@@ -40,5 +40,7 @@ Raises public awareness about air quality conditions
 Provides a data-driven foundation for sustainability initiatives
 
 **Screenshot/Demo**
+
+
 <img width="686" height="434" alt="image" src="https://github.com/user-attachments/assets/02986a11-8ae3-4c80-b1c4-958ee319f73b" />
 
